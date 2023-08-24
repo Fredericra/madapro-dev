@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Production",
+        "description":"Production plus élevée avec compétance dans cet dommaine. Dans cet domaine Informatique nous avons bien de talent et de créativite dans notre équipe",
+        "foot":"",
+        "image":"../../public/tv-screen-computer-monitor-svgrepo-com.svg"
+    },
+    {
+        "id":2,
+        "title":"Qualite",
+        "description":"La qualité est notre priorite. Normes plus élevées dans chaque aspect de notre travail, que ce soit dans le développement de nos produits ou dans la prestation de nos services. ",
+        "qualite":""
+    },
+    {
+        "id":3,
+        "title":"Securite",
+        "description":"En tant qu'utilisation téchonlogie récent votre sécurte de site web et n'aucun de socié et l'application bien finié",
+        "qualite":""
+    },
+    {
+        "id":4,
+        "title":"Confiance",
+        "description":"Chez notre société, la confiance client est au coeur de notre approche. Nous mettons un poin d'honneur à etablier des relation solides en offrant des solutions fiable.",
+        "qualite":""
+    }
+]

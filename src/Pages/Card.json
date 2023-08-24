@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title":"Téchonologie web et langage web",
+        "description":"Framoework et techologie innovant et récent nous utlisons pour votre site web. Rendre application web en sécurite et utilisable pour vos client ",
+        "outile":[
+            "PHP",
+            "adobe xd",
+            "illustrator",
+            "photoshop"
+        ],
+        "langage":[
+            "PHP",
+            "Javascript"
+        ],
+        "framework":[
+            "Laravel",
+            "VUE JS",
+            "WORDPRESS"
+        ]
+    },
+    {
+        "id":2,
+        "title":"designeur et intergrateur web",
+        "description":"intergrateur et designeur de site web dinamique, monté votre site en site dinamique et trés réctif et anamation.",
+        "outile":[
+            "figma",
+            "adobe xd",
+            "illustrator",
+            "photoshop"
+        ],
+        "langage":[
+           
+        ],
+        "framework":[
+          
+        ]
+    },
+    {
+        "id":3,
+        "title":"Créative et hébergement",
+        "description":"hébergement stable et plus rapide de vos site web",
+        "outile":[
+            "Netilify","render","railway"
+        ],
+        "framework":[
+
+        ]
+    }
+]
